@@ -1,0 +1,20 @@
+{
+  "name": "ts-refactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "install": "node script/install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thzt/ts-refactor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thzt/ts-refactor/issues"
+  },
+  "homepage": "https://github.com/thzt/ts-refactor#readme"
+}
